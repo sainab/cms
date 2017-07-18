@@ -1,5 +1,5 @@
 # cms
 Basic CMS with php
 
-#User: siamweb
-#Password : adminadmin
+User: siamweb
+Password : adminadmin
